@@ -1,4 +1,4 @@
-## hi hello welcome, 
+## hi hello welcome,    ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kotacubes)
 
 I'm still working on this! 
 
